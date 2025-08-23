@@ -1,4 +1,4 @@
-Done: (EASY)
+Done:
 
 Left:
 * Web 
